@@ -10,6 +10,5 @@ cd ..
 catkin_make  
 source ./devel/setup.bash  
 roslaunch hesai_lidar hesai_lidar.launch  
-'''
 
 
